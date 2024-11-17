@@ -16,16 +16,33 @@ header {
     border-bottom: 1px solid #e7e9fc;
 }
 
-.conteiner {
+.container {
     display: flex;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-
 }
 
 .sutun {
     display: flex;
     align-items: center;
-    
+
+}
+
+.logoone {
+    margin-right: 76px;
+}
+
+.link {
+    display: flex;
+    gap: 40px;
+}
+
+.title {
+    padding: 24px 0;
+}
+
+.adres {
+    display: flex;
+    gap: 40px;
 }
