@@ -47,7 +47,36 @@ header {
     gap: 40px;
 }
 
+.adres {
+    display: flex;
+    gap: 40px;
+}
+
 .sectionone {
     padding: 188px 0;
 
+}
+
+.karsilama {
+    max-width: 496px;
+}
+
+.button {
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.sectiontwo {
+    padding: 120px 0;
+
+}
+
+.details {
+    display: flex;
+    gap: 24px;
 }
