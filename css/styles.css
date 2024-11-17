@@ -5,3 +5,27 @@ body {
     padding: 0;
     font-family:"Roboto", sans-serif ;
 }
+header {
+    display: flex;
+    flex-direction: row;
+    width: 1140px;
+    height: 72px;
+}
+
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.conteiner {
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+
+.sutun {
+    display: flex;
+    align-items: center;
+    
+}
