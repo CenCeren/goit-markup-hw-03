@@ -81,7 +81,7 @@ header {
 }
 
 .sectiontwoli {
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 72px)/4);
 
 }
 
@@ -105,7 +105,7 @@ header {
 }
 
 .threeli {
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 72px)/4);
     border-radius: 0px 0px 4px 4px;
 }
 
@@ -119,4 +119,31 @@ header {
 }
 .detay {
     text-align: center;
+}
+
+.sectionfour {
+    padding: 120px 0;
+}
+
+.portfolio {
+    margin-bottom: 72px;
+}
+
+.sectionfourul {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.sectionfourli {
+    width: calc((100% - 72px)/4);
+
+}
+
+.sectionfourapp {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
 }
