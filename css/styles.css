@@ -42,7 +42,12 @@ header {
     padding: 24px 0;
 }
 
-.adres {
+.address {
     display: flex;
     gap: 40px;
+}
+
+.sectionone {
+    padding: 188px 0;
+
 }
