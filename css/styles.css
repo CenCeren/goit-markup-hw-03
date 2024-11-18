@@ -6,6 +6,9 @@ body {
     display: block;
     font-family:"Roboto", sans-serif ;
 }
+img {
+    display: block;
+}
 header {
     display: flex;
     flex-direction: row;
@@ -22,6 +25,7 @@ header {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    margin-bottom: 8px;
 }
 
 .sutun {
@@ -91,6 +95,10 @@ header {
 
 }
 
+.visually-hidden {
+    font-family:"Roboto", sans-serif ;
+}
+
 .sectionthree {
     padding: 120px 0;
 
@@ -155,8 +163,8 @@ header {
 }
 
 .flogoone {
-    display: inline-block;
     margin-bottom: 16px;
+    display: inline-block;
 }
 
 .dipnot {
