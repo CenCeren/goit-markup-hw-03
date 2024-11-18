@@ -20,6 +20,11 @@ header {
     border-bottom: 1px solid #e7e9fc;
 }
 
+header .container {
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+}
 .container {
    
     width: 1158px;
@@ -86,7 +91,7 @@ header {
 }
 
 .sectiontwoli {
-    width: calc((100%-72px)/4);
+    width: calc((100% - 72px)/4);
 
 }
 
